@@ -2,7 +2,7 @@
 
 ***An easy realization of the Game of Life out of curiosity.***
 
-![screenshot](screenshot.png)
+![screenshot](https://github.com/bluemapleman/GameOfLife/blob/master/Screenshot.png)
 
 Inspiration comes from [Convey's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
